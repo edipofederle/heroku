@@ -1,3 +1,7 @@
+2.37.3 2013-04-09
+=================
+Correct "process" to "dyno" in output
+
 2.37.2 2013-04-04
 =================
 fix issue with heroku ps sorting
